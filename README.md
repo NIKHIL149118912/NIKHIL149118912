@@ -1,7 +1,4 @@
 <!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/zNi5b0H.png" width="100%" alt="Banner"/>
-</p>
 
 <h1 align="center">Hi 👋, I'm a MERN Stack Developer & AI/ML Enthusiast</h1>
 
