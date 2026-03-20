@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square"/>
   <img src="https://img.shields.io/badge/Code-Python-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/MERN-Developer-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/yourUserName?label=Followers&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/NIKHIL149118912?label=Followers&style=flat-square"/>
 </p>
 
 ---
@@ -76,10 +76,10 @@
 
 ## 📫 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/yourUserName">
+  <a href="https://linkedin.com/in/nikhil-tomar-5a7604257">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:yourEmail@gmail.com">
+  <a href="mailto:nikhiltomar1491@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
