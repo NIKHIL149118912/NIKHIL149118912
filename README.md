@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 
-<h1 align="center">Hi 👋, I'm a MERN Stack Developer & AI/ML Enthusiast</h1>
+<h1 align="center">B.Tech CSE (AI & Data Science) Student | Python | Web Development | ML Enthusiast</h1>
 
 <p align="center">
   <em>Building scalable full-stack apps & exploring Intelligence through Machine Learning.</em>
